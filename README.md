@@ -38,5 +38,3 @@ This app allows users to:
 - OpenWeatherMap API
 
 ---
-
-Feel free to fork this repo and build your own version!
